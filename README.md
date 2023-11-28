@@ -140,6 +140,7 @@ On Discord, we recommend posting it in our **#💯・100-days-of-code** channel!
 
 Here are the helpful resources for our blockchain learning journey!
 
+* [Ethereum Dev. Bootcamp | Alchemy University](https://university.alchemy.com/course/ethereum/)
 * [Learn the Basics of Blockchain with Python | Codecademy](https://www.codecademy.com/enrolled/courses/introduction-to-blockchain)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
