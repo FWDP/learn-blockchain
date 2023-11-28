@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <div align="center">
     <a href="https://github.com/FWDP/learn-blockchain/">
         <img src="assets/fwdp main logo.png" alt="FWDP Logo" height="80">
