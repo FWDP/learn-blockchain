@@ -6,7 +6,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
@@ -31,8 +30,8 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#showcase-your-learning">Showcase Your Learning</a></li>
-    <li><a href="#contact">Contact</a></li>   
-    <li><a href="#acknowledgements">Acknowledgements</a></li>     
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contact">Contact</a></li>        
   </ol>
 </details>
 
@@ -156,13 +155,23 @@ Here are the helpful resources for our blockchain learning journey!
 ## Contact
 
 Facebook Group: https://www.facebook.com/groups/fwdpeers
+<br/>
 Discord: https://dsc.gg/fwdp
+<br/>
 YouTube: https://www.youtube.com/@filipinowebdevelopmentpeers
+<br/>
 GitHub: https://github.com/fwdp
+<br/>
 Email: filipinowebdevelopmentpeers@gmail.com
+<br/>
 Facebook: https://fb.com/fwdpeers
+<br/>
 LinkedIn: https://www.linkedin.com/company/fwdp
-
+<br/>
+Onboard: https://onboard.dev/community/fwdp
+<br/>
+Instagram: https://www.instagram.com/filwebdevpeers/
+<br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
