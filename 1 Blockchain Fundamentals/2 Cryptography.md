@@ -5,7 +5,7 @@ A hash function is a process where a user inputs data, and the function produces
 
 Observe how the output size stays the same despite the increasing input size:
 
-<img src="assets/hash-function-table.PNG" alt="The output size stays the same even if the input size increases">
+<img src="../assets/hash-function-table.PNG" alt="The output size stays the same even if the input size increases">
 
 This process adheres to five key properties:
 
