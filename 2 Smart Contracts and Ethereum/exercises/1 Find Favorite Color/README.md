@@ -10,7 +10,7 @@ It's easy to find that the SHA256 hash of "apples" is ``0xf5903f...0f74d9.`` If 
 
 > For security purposes, it's important to remember to use a random **salt** which you can add to your input to make it unguessable via the methods mentioned above!
 
-## ## Your Goal: Find the Color
+## Your Goal: Find the Color
 
 Given a SHA256 hash, find the color input that would generate that hash. You can assume that all the hashes be generated only from colors provided in the  `COLORS`  array.
 
