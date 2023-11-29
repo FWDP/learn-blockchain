@@ -35,6 +35,10 @@ console.log(toHex(aHash) === toHex(bHash)); // false
 
 >Wondering what utf8 stands for? The UTF-8 standard translates all the possible keyboard characters you can think of into bytes. This is an agreed upon standard to ensure we all get the same bit values representing the letters and words we see on the screen. Learn more about [utf8 here](https://en.wikipedia.org/wiki/UTF-8).
 
-Refer to the **template.js** file to start doing the exercise.
+## Adding your solution
+
+Refer to the **template.js** file to start doing the exercise and the **Contributing** section of our main README file of this repository.
+
+Also, the filename should be your Discord name. The file should be placed under the "1 Find Favorite Color" folder. 
 
 Reference: [Alchemy University](https://university.alchemy.com/course/ethereum/sc/6317afca5216a46480f65674/stage/6317afca5216a46480f65677)
